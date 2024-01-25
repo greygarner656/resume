@@ -1,5 +1,5 @@
 # Grey Garner
--greygarner@mines.edu
--Colorado School of Mines
--Physics Department
--Golden, CO
+- greygarner@mines.edu
+- Colorado School of Mines
+- Physics Department
+- Golden, CO
