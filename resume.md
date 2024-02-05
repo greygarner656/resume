@@ -1,5 +1,5 @@
 # Grey Garner
-! [Colorado School of Mines](https://pbs.twimg.com/media/FiG176uWQDcqGk_.jpg)
+![Colorado School of Mines](https://pbs.twimg.com/media/FiG176uWQDcqGk_.jpg)
 ## Email:
 - greygarner@mines.edu
 ## Eductaion:
